@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Inria", serif;
   overflow: hidden;
 }
 
@@ -47,7 +47,8 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: BFE5F8;
+;
   width: 100vw;
   z-index: 100;
   margin: 0;
