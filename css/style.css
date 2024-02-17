@@ -3,7 +3,7 @@ body {
   margin: 0px;
   font-family: "Inria", serif;
   overflow: hidden;
-  background-color: D7EFFC;
+  background: D7EFFC;
 }
 
 #map {
