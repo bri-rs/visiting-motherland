@@ -4,6 +4,7 @@ body {
   font-family: "Inria", serif;
   overflow: hidden;
   background: D7EFFC;
+  text-align: center;
 }
 
 #map {
