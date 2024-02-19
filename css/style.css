@@ -170,7 +170,7 @@ a.source:visited {
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
-  font-size: 1.5em;
+  font-size: 2em;
   font-family: "Original Surfer", sans-serif;
   font-weight: 400;
   font-style: bold;
@@ -180,7 +180,7 @@ h1 {
 
 h2 {
   margin: 0;
-  font-size: 1.1em;
+  font-size: 1em;
   font-weight: normal;
   font-family: "Cinzel";
   padding: 1em;
